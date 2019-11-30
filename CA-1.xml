@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="PaddysCafe.xsl"?>
+<UpcomingGamesList>
+<section name="Playstation">
+
+<entree exclusive="true">
+<item>Last of Us 2 </item>
+<developer>Naughty Dog</developer>
+<price>69.99</price>
+</entree>
+
+<entree exclusive="true">
+<item>Ghost of Tsushima </item>
+<developer>Sucker Punch</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>Final Fantasy 16</item>
+<developer>Sq1uare Enix</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>FIFA 21 </item>
+<developer>EA Sport</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>Rainbow Six Quarentine </item>
+<developer>Ubisoft</developer>
+<price>69.99</price>
+</entree>
+
+</section>
+<section name="Xbox">
+
+<entree exclusive="true">
+<item>Halo Infinite </item>
+<developer>343 Industries</developer>
+<price>69.99</price>
+</entree>
+
+<entree exclusive="true">
+<item>Fable 4 </item>
+<developer>Playground Games</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>Final Fantasy 16</item>
+<developer>Sq1uare Enix</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>FIFA 21 </item>
+<developer>EA Sport</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>Rainbow Six Quarentine </item>
+<developer>Ubisoft</developer>
+<price>69.99</price>
+</entree>
+
+</section>
+<section name="Nintendo">
+
+<entree exclusive="true">
+<item>Metriod Prime </item>
+<developer>Nintendo</developer>
+<price>69.99</price>
+</entree>
+
+<entree exclusive="true">
+<item>Mario Kingdom 2 </item>
+<developer>Nintendo</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>Final Fantasy 16</item>
+<developer>Sq1uare Enix</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>FIFA 21 </item>
+<developer>EA Sport</developer>
+<price>69.99</price>
+</entree>
+
+</section>
+<section name="PC">
+
+<entree exclusive="true">
+<item>Total War : Warhammer 40K</item>
+<developer>Creative Assembly</developer>
+<price>69.99</price>
+</entree>
+
+<entree exclusive="true">
+<item>Evil Genius 2 : World Domination</item>
+<developer>Rebellion</developer>
+<price>69.99</price>
+</entree>
+
+
+<entree >
+<item>Final Fantasy 16</item>
+<developer>Sq1uare Enix</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>FIFA 21 </item>
+<developer>EA Sport</developer>
+<price>69.99</price>
+</entree>
+
+<entree >
+<item>Rainbow Six Quarentine </item>
+<developer>Ubisoft</developer>
+<price>69.99</price>
+</entree>
+
+</section>
+
+</UpcomingGamesList>
